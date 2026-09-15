@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<gpx version="1.1" creator="NodeMapp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <author>
+      <name>NodeMapp Hike</name>
+    </author>
+  </metadata>
+  <trk>
+    <name>Rincon de Victoria</name>
+    <trkseg>
+      <trkpt lat="36.719451" lon="-4.297497">
+        <ele>82</ele>
+      </trkpt>
+      <trkpt lat="36.719424" lon="-4.297399">
+        <ele>82</ele>
+      </trkpt>
+      <trkpt lat="36.718966" lon="-4.297709">
+        <ele>78</ele>
+      </trkpt>
+      <trkpt lat="36.718515" lon="-4.297362">
+        <ele>75</ele>
+      </trkpt>
+      <trkpt lat="36.718127" lon="-4.297375">
+        <ele>67</ele>
+      </trkpt>
+      <trkpt lat="36.717763" lon="-4.29771">
+        <ele>62</ele>
+      </trkpt>
+      <trkpt lat="36.717796" lon="-4.29792">
+        <ele>60</ele>
+      </trkpt>
+      <trkpt lat="36.717528" lon="-4.29832">
+        <ele>55</ele>
+      </trkpt>
+      <trkpt lat="36.717177" lon="-4.298262">
+        <ele>51</ele>
+      </trkpt>
+      <trkpt lat="36.716816" lon="-4.297936">
+        <ele>48</ele>
+      </trkpt>
+      <trkpt lat="36.716266" lon="-4.297032">
+        <ele>44</ele>
+      </trkpt>
+      <trkpt lat="36.716131" lon="-4.296904">
+        <ele>42</ele>
+      </trkpt>
+      <trkpt lat="36.715901" lon="-4.29685">
+        <ele>40</ele>
+      </trkpt>
+      <trkpt lat="36.714457" lon="-4.297342">
+        <ele>30</ele>
+      </trkpt>
+      <trkpt lat="36.714426" lon="-4.297662">
+        <ele>28</ele>
+      </trkpt>
+      <trkpt lat="36.713934" lon="-4.297871">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="36.713861" lon="-4.297882">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="36.713846" lon="-4.298078">
+        <ele>24</ele>
+      </trkpt>
+      <trkpt lat="36.713578" lon="-4.298156">
+        <ele>25</ele>
+      </trkpt>
+      <trkpt lat="36.713581" lon="-4.298251">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="36.713481" lon="-4.29828">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="36.713533" lon="-4.298382">
+        <ele>20</ele>
+      </trkpt>
+      <trkpt lat="36.712993" lon="-4.298577">
+        <ele>5</ele>
+      </trkpt>
+      <trkpt lat="36.712693" lon="-4.297959">
+        <ele>14</ele>
+      </trkpt>
+      <trkpt lat="36.712856" lon="-4.297332">
+        <ele>5</ele>
+      </trkpt>
+      <trkpt lat="36.712749" lon="-4.296479">
+        <ele>8</ele>
+      </trkpt>
+      <trkpt lat="36.712914" lon="-4.29602">
+        <ele>5</ele>
+      </trkpt>
+      <trkpt lat="36.713041" lon="-4.295924">
+        <ele>12</ele>
+      </trkpt>
+      <trkpt lat="36.712974" lon="-4.295886">
+        <ele>12</ele>
+      </trkpt>
+      <trkpt lat="36.713041" lon="-4.295924">
+        <ele>12</ele>
+      </trkpt>
+      <trkpt lat="36.713094" lon="-4.295835">
+        <ele>12</ele>
+      </trkpt>
+      <trkpt lat="36.714291" lon="-4.294212">
+        <ele>7</ele>
+      </trkpt>
+      <trkpt lat="36.714622" lon="-4.293755">
+        <ele>4</ele>
+      </trkpt>
+      <trkpt lat="36.714818" lon="-4.293304">
+        <ele>3</ele>
+      </trkpt>
+      <trkpt lat="36.714946" lon="-4.292197">
+        <ele>3</ele>
+      </trkpt>
+      <trkpt lat="36.715042" lon="-4.28959">
+        <ele>3</ele>
+      </trkpt>
+      <trkpt lat="36.715073" lon="-4.288251">
+        <ele>3</ele>
+      </trkpt>
+      <trkpt lat="36.715032" lon="-4.286867">
+        <ele>3</ele>
+      </trkpt>
+      <trkpt lat="36.714924" lon="-4.285784">
+        <ele>3</ele>
+      </trkpt>
+      <trkpt lat="36.714763" lon="-4.284323">
+        <ele>3</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
