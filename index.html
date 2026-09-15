@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b5465">
+  <title>Rincón de la Victoria – Audiowandeling</title>
+  <meta name="description" content="Audiogids voor de Cueva del Tesoro, Villa Antiopa en de kustwandeling in Rincón de la Victoria.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b5465'/%3E%3Cpath d='M8 39c10-9 17 8 27-1s15-4 21 1v12H8z' fill='%234cc6d7'/%3E%3Cpath d='M15 32c2-13 9-20 19-20s17 7 19 20H42c-2-6-5-9-8-9s-6 3-8 9z' fill='%23f0b35b'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <img src="assets/images/hoofdfoto.png" alt="Villa Antiopa, Cueva del Tesoro en de kust van Rincón de la Victoria">
+    <div class="hero-shade"></div>
+    <div class="hero-copy">
+      <p class="eyebrow">Audiowandeling</p>
+      <h1>Rincón de la Victoria</h1>
+      <p>Cueva del Tesoro · Villa Antiopa · Kustwandeling</p>
+    </div>
+  </header>
+
+  <nav class="jump" aria-label="Onderdelen">
+    <a href="#cueva">Cueva del Tesoro</a>
+    <a href="#antiopa">Villa Antiopa</a>
+    <a href="#wandeling">Wandeling</a>
+  </nav>
+
+  <main>
+    <section id="cueva" class="section">
+      <div class="intro cave-intro">
+        <p class="kicker">Onder de aarde</p>
+        <h2>Cueva del Tesoro</h2>
+        <p>De Cueva del Tesoro is een bijzondere grot van mariene oorsprong, gevormd door de werking van de zee. Tijdens de wandeling door haar indrukwekkende zalen ontdekken we grillige rotsformaties, ondergrondse meertjes en eeuwenoude legendes over een verborgen schat.</p>
+      </div>
+      <div id="cueva-list" class="audio-grid"></div>
+    </section>
+
+    <section id="antiopa" class="section section-alt">
+      <div class="intro">
+        <p class="kicker">Romeins verleden</p>
+        <h2>Villa Antiopa</h2>
+        <p>Villa Antiopa is een uitzonderlijk goed bewaarde Romeinse villa uit de derde eeuw na Christus. Tijdens het bezoek ontdekken we prachtige vloermozaïeken, archeologische vondsten en audiovisuele voorstellingen die het dagelijkse leven van de rijke bewoners en hun personeel opnieuw tot leven brengen.</p>
+      </div>
+      <div id="antiopa-list" class="audio-grid"></div>
+    </section>
+
+    <section id="wandeling" class="section walk-section">
+      <div class="intro">
+        <p class="kicker">Van grot naar kust</p>
+        <h2>De kleine wandeling</h2>
+        <p>Na het bezoek aan de Cueva del Tesoro maken we een mooie wandeling van ongeveer 2,3 kilometer. We dalen af naar de kust en wandelen via de tunnel en het schilderachtige pad langs de Middellandse Zee naar het restaurant.</p>
+      </div>
+      <div class="route-meta" aria-label="Gegevens van de wandeling">
+        <span><strong>2,3 km</strong> afstand</span>
+        <span><strong>± 35 min.</strong> wandeltijd</span>
+        <span><strong>Kustpad</strong> met tunnel</span>
+      </div>
+      <div id="map" aria-label="Kaart van de wandelroute"></div>
+      <a class="download" href="assets/route/rincon-de-victoria.gpx" download>Download het GPX-bestand</a>
+    </section>
+  </main>
+
+  <footer>Rincón de la Victoria · Audiowandeling</footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
